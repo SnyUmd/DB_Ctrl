@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "68004f46-3f30-45fa-a8d6-3d2aa6c27c5a": {
+      "ProjectGuid": "68004f46-3f30-45fa-a8d6-3d2aa6c27c5a",
+      "DisplayName": "DB_Ctrl",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "その他のファイル",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}
