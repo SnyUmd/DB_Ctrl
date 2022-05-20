@@ -48,7 +48,9 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="System" />
+    <Reference Include="System">
+      <HintPath>..\..\..\..\..\..\..\..\..\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.8\System.dll</HintPath>
+    </Reference>
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
@@ -71,6 +73,11 @@
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>prg_dbDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="prg_dbDataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>prg_dbDataSet1.xsd</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -97,6 +104,17 @@
     <None Include="prg_dbDataSet.xss">
       <DependentUpon>prg_dbDataSet.xsd</DependentUpon>
     </None>
+    <None Include="prg_dbDataSet1.xsc">
+      <DependentUpon>prg_dbDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="prg_dbDataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>prg_dbDataSet1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="prg_dbDataSet1.xss">
+      <DependentUpon>prg_dbDataSet1.xsd</DependentUpon>
+    </None>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
@@ -118,6 +136,14 @@
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
       <DependentUpon>prg_db.mdf</DependentUpon>
     </Content>
+    <Content Include="クエリ\PrgValue_レコード削除.sql" />
+    <Content Include="クエリ\PrgValue_レコード追加 .sql" />
+    <Content Include="クエリ\PrgLanguageテーブル確認.sql" />
+    <Content Include="クエリ\PrgLanguageテーブル追加.sql" />
+    <Content Include="クエリ\PrgType_テーブル確認.sql" />
+    <Content Include="クエリ\PrgLanguage_レコード削除.sql" />
+    <Content Include="クエリ\PrgType_レコード削除.sql" />
+    <Content Include="クエリ\PrgType_レコード追加.sql" />
   </ItemGroup>
   <ItemGroup>
     <BootstrapperPackage Include=".NETFramework,Version=v4.8">
