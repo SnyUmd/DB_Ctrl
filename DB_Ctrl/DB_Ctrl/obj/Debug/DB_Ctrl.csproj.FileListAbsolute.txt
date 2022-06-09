@@ -1,0 +1,13 @@
+E:\_git\VS\DB_Ctrl\DB_Ctrl\DB_Ctrl\bin\Debug\prg_db.mdf
+E:\_git\VS\DB_Ctrl\DB_Ctrl\DB_Ctrl\bin\Debug\prg_db_log.ldf
+E:\_git\VS\DB_Ctrl\DB_Ctrl\DB_Ctrl\bin\Debug\DB_Ctrl.exe.config
+E:\_git\VS\DB_Ctrl\DB_Ctrl\DB_Ctrl\bin\Debug\DB_Ctrl.exe
+E:\_git\VS\DB_Ctrl\DB_Ctrl\DB_Ctrl\bin\Debug\DB_Ctrl.pdb
+E:\_git\VS\DB_Ctrl\DB_Ctrl\DB_Ctrl\obj\Debug\DB_Ctrl.csproj.AssemblyReference.cache
+E:\_git\VS\DB_Ctrl\DB_Ctrl\DB_Ctrl\obj\Debug\DB_Ctrl.csproj.SuggestedBindingRedirects.cache
+E:\_git\VS\DB_Ctrl\DB_Ctrl\DB_Ctrl\obj\Debug\DB_Ctrl.Form1.resources
+E:\_git\VS\DB_Ctrl\DB_Ctrl\DB_Ctrl\obj\Debug\DB_Ctrl.Properties.Resources.resources
+E:\_git\VS\DB_Ctrl\DB_Ctrl\DB_Ctrl\obj\Debug\DB_Ctrl.csproj.GenerateResource.cache
+E:\_git\VS\DB_Ctrl\DB_Ctrl\DB_Ctrl\obj\Debug\DB_Ctrl.csproj.CoreCompileInputs.cache
+E:\_git\VS\DB_Ctrl\DB_Ctrl\DB_Ctrl\obj\Debug\DB_Ctrl.exe
+E:\_git\VS\DB_Ctrl\DB_Ctrl\DB_Ctrl\obj\Debug\DB_Ctrl.pdb
